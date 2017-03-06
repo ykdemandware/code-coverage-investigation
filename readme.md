@@ -7,3 +7,7 @@ The closest approach we had, was to use this tool (https://github.com/k0sukey/ti
 
 More Details about Ti.Slag here https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fk0sukey.github.io%2Fti-slag%2F&edit-text=
  
+Test Sandbox
+----------------------------------
+
+To test the Sanbox project first install all the node packages and ran "mocha test.js" at the root of the sandbox project.
