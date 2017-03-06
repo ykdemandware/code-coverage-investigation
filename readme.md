@@ -10,4 +10,4 @@ More Details about Ti.Slag here https://translate.google.com/translate?sl=auto&t
 Test Sandbox
 ----------------------------------
 
-To test the Sanbox project first install all the node packages and ran "mocha test.js" at the root of the sandbox project.
+To test the Sanbox project first install all the node packages and run "mocha test.js" at the root of the sandbox project.
