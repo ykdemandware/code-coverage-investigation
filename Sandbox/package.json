@@ -1,0 +1,28 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "Welcome to your Appcelerator Titanium Mobile Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js",
+    "coverage": "nyc npm test && nyc report"
+  },
+  "config": {
+    "nyc": {
+      "exclude": [
+        "test.js",
+        "node_modules/",
+        "app/"
+      ]
+    }
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "mocha": "^3.2.0",
+    "nyc": "^10.1.2",
+    "signal-exit": "^3.0.2",
+    "ti-slag": "0.0.26"
+  }
+}
